@@ -7,13 +7,14 @@ h1 {
 }
 
 #div1 {
-    height: 115px;
-    width: 1800px;
     margin-right: auto;
     margin-left: auto;
     background-color: darkgray;
     box-shadow: 10px 5px 5px black;
-    border-radius: 5%;
+    padding: 0px 0px;
+    width: 1730px;
+    height: 120px;
+    border-radius: 20px;
 
 }
 
@@ -30,6 +31,7 @@ h1 {
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding: 10px 20px;
 }
 
 #div3 {
@@ -43,7 +45,7 @@ h1 {
     background-color: skyblue;
     height: 170px;
     width: 900px;
-    border-radius: 5%;
+    border-radius: 20px;
     box-shadow: 10px 5px 5px black;
     margin-right: auto;
     margin-left: auto;
